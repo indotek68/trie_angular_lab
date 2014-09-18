@@ -1,0 +1,2 @@
+module WordsTemplatesHelper
+end
